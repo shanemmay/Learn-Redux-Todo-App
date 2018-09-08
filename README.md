@@ -1,0 +1,1 @@
+This is me trying to create a react redux todo app like the one shown in the documentation.
